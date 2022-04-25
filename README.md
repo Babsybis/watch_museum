@@ -46,13 +46,13 @@ possède-t-il un formulaire de contact, une newsletter, les liens vers les rése
 
 ### Itération #A.2 : Cahier des charges
 - À partir de l’analyse réaliser un cahier des charges en tenant compte du canevas suivant :
-o Présentation de l’entreprise
-o Cible à laquelle s’adresse le site
-o État des lieux de l’existant
-o Arborescence du site
-o Description fonctionnelle : exemple abonnement à une newsletter, barre de
+  * Présentation de l’entreprise
+  * Cible à laquelle s’adresse le site
+  * État des lieux de l’existant
+  * Arborescence du site
+  * Description fonctionnelle : exemple abonnement à une newsletter, barre de
 recherche, intégrer un blog, formulaire de contact, carte google...
-o Contenu présent sur le site
+  * Contenu présent sur le site
 
 ### Itération #A.2 : Planche de tendance
 - À partir de sites concurrents (benchmark) ou de site d’inspiration, ajouter les éléments sur
