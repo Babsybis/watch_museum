@@ -39,7 +39,7 @@ Frank Gerhy / pas de site officiel
 
 ### Itération # A.1 : Analyse
 - Une fois que vous avez choisi votre sujet et qu’il est validé par votre coach vous devez alors
-réaliser une analyse de l’identité visuelle existantedu sujet. Par exemple, votre sujet
+réaliser une analyse de l’identité visuelle existante du sujet. Par exemple, votre sujet
 possède-t-il un logo, une charte graphique, des couleurs dominantes, etc.. ; ?
 - Quelle est d’après-vous la stratégie digitale mise en place par votre sujet. Par exemple le site
 possède-t-il un formulaire de contact, une newsletter, les liens vers les réseaux sociaux ?
