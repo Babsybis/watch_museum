@@ -15,6 +15,55 @@ Le musée de la montre possède tout de même un google my buisness ou google ma
 
 ## B - Cahier des charges
 
-**La cible du site web** :  
+**Présentation de l’entreprise**
+
+Adresse: Rue Pierre Bercot, 25130 Villers-le-Lac  
+Tél:  06 36 56 99 11  
+
+Horaires d'ouverture:  
+mardi:14:00–17:00  
+vendredi:14:00–17:00  
+
+Tarifs :  
+
+Tarif de base - Adulte Plein tarif : 6€  
+Gratuité (- 12 ans)  
+Tarif enfant (12-16 ans) : 3€  
+Tarif etudiants : 3€  
+Tarif demandeurs d'emploi : 3€  
+Tarif groupe (par personne) : 5,5€  
+
+
+**Cible à laquelle s’adresse le site** : 
+
   Les amateurs de montres, passionnés d'histoire et de savoir faire...
   Les jeunes en formation ou apprentissage, les professionnels de l'horlogerie, les entreprises d'horlogerie.
+  Les touristes du Hauts doubs, et frontière Suisse.
+
+  **État des lieux de l’existant**
+
+  Le musée ne possède aucun site, je puiserai l'inspiration dans d'autres musées et grandes marques d'horlogerie.
+  Pas de réseaux sociaux, très peu de photos sur le web.
+  Pas d'article de presse.
+
+  **Arborescence du site**
+
+LOGO
+
+Expositions  
+- Permanente ou temporaire  
+- Atelier Métiers  
+
+Visite
+- Tarifs et Horaires
+
+Contact
+- Formulaire de contact  
+- Accès et Tél  
+
+**Description fonctionnelle : exemple abonnement à une newsletter, barre de recherche, intégrer un blog, formulaire de contact, carte google...**
+
+- Formulaire contact  
+- Google map  
+- Création newsletter  
+- Réservation visite  
