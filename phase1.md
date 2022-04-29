@@ -67,3 +67,21 @@ Contact
 - Google map  
 - Création newsletter  
 - Réservation visite  
+
+### Itération #A.2 : Planche de tendance
+
+Tendances actuelle des sites de musée de la montre:
+
+https://www.patek.com/fr/accueil https://www.rolex.com/fr https://espacehorloger.ch/
+
+Les sites ci-dessus ont un design dans l'air tu temps, avec une trés bonne lisibilité...
+
+![](/moodboard/1.PNG)
+![](/moodboard/2.PNG)
+![](/moodboard/3.PNG)
+![](/moodboard/4.PNG)
+![](/moodboard/5.PNG)
+
+**Moodboard**
+
+![](/moodboard/Moodboard.PNG)
