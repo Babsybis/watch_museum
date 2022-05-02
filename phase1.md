@@ -72,7 +72,7 @@ Contact
 
 Tendances actuelle des sites de musée de la montre:
 
-https://www.patek.com/fr/accueil https://www.rolex.com/fr https://espacehorloger.ch/
+https://www.patek.com/fr/accueil https://www.rolex.com/fr https://espacehorloger.ch/ https://watchmuseum.org/fr/
 
 Les sites ci-dessus ont un design dans l'air tu temps, avec une trés bonne lisibilité...
 

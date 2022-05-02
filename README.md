@@ -66,12 +66,13 @@ personnes impliquées où qui le seront à l’avenir.
 - Définir la charte graphique comme l’exemple ci-dessous
 
 ![](/image/image_1.PNG)
+
 ### Itération #A.4 Maquetter le Header
-- Créer la maquette graphique du header de votre page web en choisissant parmi les 2zoning
-proposés :
-o 1 composition graphique dans Photoshop
-o Présence de 2 à 3 textes
-o Intégration à minima d’un web font et de deux au maximum.
+- Créer la maquette graphique du header de votre page web en choisissant parmi les 2 zoning
+proposés :  
+o 1 composition graphique dans Photoshop  
+o Présence de 2 à 3 textes  
+o Intégration à minima d’un web font et de deux au maximum.  
 
 ![](/image/image_2.PNG)
 
