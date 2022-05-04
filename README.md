@@ -82,17 +82,17 @@ o Intégration à minima d’un web font et de deux au maximum.
   
 ### Itération #A.6 Maquetter le contenu principal
 - Créer la maquette graphique du contenu de votre page web composition graphique dans
-Photoshop
-o Tenir compte de votre Design System
-o Maquetter en tenant compte de votre zoning
+Photoshop  
+o Tenir compte de votre Design System  
+o Maquetter en tenant compte de votre zoning  
 
-### Itération #A.7 Maquetter le pied de page
+### Itération #A.7 Maquetter le pied de page  
 - Créer la maquette graphique du pied de page de votre page web en choisissant parmi les 2
-zoning proposés :
-o 1 composition graphique dans Photoshop
-o Présence de 2 à 3 textes
-o Intégration à minima d’un web font et de deux au maximum.
-o Présence du formulaire d’inscription à la newsletter
+zoning proposés :  
+o 1 composition graphique dans Photoshop  
+o Présence de 2 à 3 textes  
+o Intégration à minima d’un web font et de deux au maximum.  
+o Présence du formulaire d’inscription à la newsletter  
 
 ![](/image/image_3.PNG)
 
@@ -101,22 +101,22 @@ o Présence du formulaire d’inscription à la newsletter
   
 ### Itération #A.9 Backoffice
 - À partir des consignes ci-dessous, réaliser la maquette de la page de login et du backend
-pour la gestion des Neswletter
-o Page login
-▪ identifiant un username,
-▪ mot de passe,
-▪ pas de gestion de mot de passe perdu,
-▪ pas de gestion pour créer un nouveau compte,
-o Page Backoffice
-▪ Prévoir une zone pour se déconnecter
+pour la gestion des Neswletter  
+o Page login  
+▪ identifiant un username,  
+▪ mot de passe,  
+▪ pas de gestion de mot de passe perdu,  
+▪ pas de gestion pour créer un nouveau compte,  
+o Page Backoffice  
+▪ Prévoir une zone pour se déconnecter  
 ▪ Liste des personnes inscrites à la newsletter. La liste doit comporter comme
-colonnes :
-• Adresse mail de la personne
-• Date d’inscription
-• L’action permettant de désinscrire une personne
+colonnes :  
+• Adresse mail de la personne  
+• Date d’inscription  
+• L’action permettant de désinscrire une personne  
 ▪ Prévoir une zone permettant à l’administrateur d’exporter la liste au format
-csv.
-▪ Pas de gestion de profil
+csv.  
+▪ Pas de gestion de profil  
 
 ### Itération #A.10 Responsive du backoffice
 - Réaliser le responsive du backend
