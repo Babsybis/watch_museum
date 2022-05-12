@@ -90,6 +90,10 @@ Les sites ci-dessus ont un design dans l'air tu temps, avec une trés bonne lisi
 
 ![](/moodboard/Couleurs.PNG)
 
+**Polices**
+
+![](/moodboard/police.PNG)
+
 **Logo**
 
 ![](/moodboard/Logo1.PNG)
@@ -97,4 +101,15 @@ Les sites ci-dessus ont un design dans l'air tu temps, avec une trés bonne lisi
 **Hover**
 
 ![](/moodboard/hover.PNG)
+
+**Wireframe**
+
+![](/moodboard/wireframe.PNG)
+
+**Wireframe Responsive**
+
+![](/moodboard/wireframe_responsive.PNG)
+
+
+
 
