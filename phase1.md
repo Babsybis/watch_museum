@@ -108,7 +108,7 @@ Les sites ci-dessus ont un design dans l'air tu temps, avec une trés bonne lisi
 
 **Wireframe Responsive**
 
-![](/moodboard/Wireframe_responsive.PNG)
+![](/moodboard/wireframe_responsive.PNG)
 
 
 
