@@ -110,6 +110,19 @@ Les sites ci-dessus ont un design dans l'air tu temps, avec une trés bonne lisi
 
 ![](/moodboard/wireframe_responsive.PNG)
 
+**Maquette**
+
+![](/moodboard/maquette.PNG)
+
+**Maquette Responsive**
+
+![](/moodboard/maquette_responsive.PNG)
+
+**Maquette Hover**
+
+![](/moodboard/maquette_hover.PNG)
+
+
 
 
 
