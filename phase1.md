@@ -104,11 +104,11 @@ Les sites ci-dessus ont un design dans l'air tu temps, avec une trés bonne lisi
 
 **Wireframe**
 
-![](/moodboard/wireframe.png)
+![](/moodboard/desk_wireframe.png)
 
 **Wireframe Responsive**
 
-![](/moodboard/wireframe_responsive.png)
+![](/moodboard/responsive_wireframe.png)
 
 **Maquette**
 
