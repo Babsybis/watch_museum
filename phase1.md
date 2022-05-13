@@ -84,11 +84,11 @@ Les sites ci-dessus ont un design dans l'air tu temps, avec une trés bonne lisi
 
 **Moodboard**
 
-![](/moodboard/Moodboard.png)
+![](/moodboard/moodboard_fin.png)
 
 **Couleurs**
 
-![](/moodboard/couleurs.png)
+![](/moodboard/couleurs.PNG)
 
 **Polices**
 
@@ -96,11 +96,11 @@ Les sites ci-dessus ont un design dans l'air tu temps, avec une trés bonne lisi
 
 **Logo**
 
-![](/moodboard/Logo_1.png)
+![](/moodboard/logo_1.PNG)
 
 **Hover**
 
-![](/moodboard/hover.png)
+![](/moodboard/hover.PNG)
 
 **Wireframe**
 
