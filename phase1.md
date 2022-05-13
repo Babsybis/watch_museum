@@ -84,43 +84,43 @@ Les sites ci-dessus ont un design dans l'air tu temps, avec une trés bonne lisi
 
 **Moodboard**
 
-![](/moodboard/Moodboard.PNG)
+![](/moodboard/Moodboard.png)
 
 **Couleurs**
 
-![](/moodboard/Couleurs.PNG)
+![](/moodboard/couleurs.png)
 
 **Polices**
 
-![](/moodboard/police.PNG)
+![](/moodboard/polices.png)
 
 **Logo**
 
-![](/moodboard/Logo1.PNG)
+![](/moodboard/Logo_1.png)
 
 **Hover**
 
-![](/moodboard/hover.PNG)
+![](/moodboard/hover.png)
 
 **Wireframe**
 
-![](/moodboard/wireframe.PNG)
+![](/moodboard/wireframe.png)
 
 **Wireframe Responsive**
 
-![](/moodboard/wireframe_responsive.PNG)
+![](/moodboard/wireframe_responsive.png)
 
 **Maquette**
 
-![](/moodboard/maquette.PNG)
+![](/moodboard/maquette.png)
 
 **Maquette Responsive**
 
-![](/moodboard/maquette_responsive.PNG)
+![](/moodboard/maquette_responsive.png)
 
 **Maquette Hover**
 
-![](/moodboard/maquette_hover.PNG)
+![](/moodboard/maquette_hover.png)
 
 
 
