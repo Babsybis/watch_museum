@@ -42,7 +42,6 @@ ul{
 }
 
 /* main section image arrière plan header et titre */
-
 .background_header{
     background-image: url("moodboard/musée.jpg");
     background-repeat: no-repeat;
@@ -97,6 +96,7 @@ h2 {
     border-radius: .625rem;
     margin: 3.75rem 1.375rem;  
     display: flex;
+    margin-bottom: 0;
 }
 
 h3 {
@@ -130,6 +130,7 @@ h3 {
     padding-top: 5rem;
     padding-bottom: 5rem;
     box-sizing: border-box;
+    margin-bottom: 0;
 }
 
 .position1, .position3{
@@ -152,17 +153,11 @@ h3 {
     padding-bottom: 1.25rem;  
 }
 
-/* .position3 p {
+/* main section croquis_flex croquis, texte et bordure */
+
+.contain p{
+    width: 230px;
     font-family: 'Lato', sans-serif;
     font-size: 1rem;
     color:#00000;
-    padding: 50px;
-    box-sizing: border-box;  
-    display: flex; 
-} */
-
-/* main section croquis_flex croquis, texte et bordure */
-
-p{
-    width: 230px;
 }
