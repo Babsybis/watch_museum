@@ -9,7 +9,7 @@ body{
     align-items: center;
 }
 
-h1 {
+h2 {
     font-family: 'STIX Two Text', serif;
     font-size: 3.125rem;
     font-style: italic;
@@ -53,7 +53,7 @@ ul{
 }
 
 
-h2 {
+h1 {
     font-family: 'Overlock', cursive;
     font-size: 6.25rem;
     margin: 0;
@@ -180,3 +180,32 @@ h3 {
     align-items: center;
     padding-top: 2.5rem;
 }
+
+/* footer insertion bacground, coordonnées et Newsletter */
+.background_footer{
+    background-image: url("moodboard/footer.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    height: 500px;
+}
+
+.background_footer .right_position{
+    background-image:  none;
+}
+
+.background_footer p{
+    font-family: 'Overlock', cursive;
+    font-size: 1.25rem;
+    color:#ffffff;
+    display: flex;
+    margin:0;
+    margin-bottom: 10px;
+}
+.background_footer h3{
+    color:#ffffff;
+    margin-bottom: 10px;
+}
+
+
+
