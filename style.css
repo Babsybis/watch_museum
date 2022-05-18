@@ -106,7 +106,7 @@ h3 {
     display: flex;  
 }
 
-p{
+.right_position p{
     font-family: 'Lato', sans-serif;
     font-size: 1.25rem;
     color:#ffffff;
@@ -121,6 +121,48 @@ p{
 
 .contain {
     border: solid 1px #615947;
-    margin
+    margin: 3.75rem 1.375rem; 
+    border-radius: .625rem;
+    display: flex;
+    width: 100vw;
+    height: 43.75rem;
+    justify-content: space-evenly;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    box-sizing: border-box;
 }
 
+.position1, .position3{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.position2, .position4{
+    display: flex;
+    align-items: center;
+    flex-direction: column-reverse;
+}
+
+.bloc{
+    border: solid 1px #615947;
+    border-radius: .625rem;
+    padding-left:  2.625rem;
+    padding-right: 2.625rem;
+    padding-bottom: 1.25rem;  
+}
+
+/* .position3 p {
+    font-family: 'Lato', sans-serif;
+    font-size: 1rem;
+    color:#00000;
+    padding: 50px;
+    box-sizing: border-box;  
+    display: flex; 
+} */
+
+/* main section croquis_flex croquis, texte et bordure */
+
+p{
+    width: 230px;
+}
