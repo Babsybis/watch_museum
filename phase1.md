@@ -104,11 +104,11 @@ Les sites ci-dessus ont un design dans l'air tu temps, avec une trés bonne lisi
 
 **Wireframe**
 
-![](/moodboard/desk_wireframe.png)
+![](/moodboard/Wireframe.png)
 
 **Wireframe Responsive**
 
-![](/moodboard/responsive_wireframe.png)
+![](/moodboard/Wireframe%20responsive.png)
 
 **Maquette**
 
@@ -116,13 +116,8 @@ Les sites ci-dessus ont un design dans l'air tu temps, avec une trés bonne lisi
 
 **Maquette Responsive**
 
-![](/moodboard/maquette_responsive.png)
+![](/moodboard/maquette%20Responsive.png)
 
 **Maquette Hover**
 
 ![](/moodboard/maquette_hover.png)
-
-
-
-
-
